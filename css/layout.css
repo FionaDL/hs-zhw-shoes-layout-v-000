@@ -23,14 +23,14 @@
 }
 
 
-.col-1 figure{
+.col-1 {
   float: left;
   width: 31%;
 }
 
 .col-2 {
   float: left;
-  width: 66%;
+  width: 62%;
 }
 
 .col-3 {
