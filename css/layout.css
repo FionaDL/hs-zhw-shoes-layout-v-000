@@ -26,17 +26,17 @@
 .col-1 {
   float: left;
   width: 31%;
-  margin: 7px;
+  margin: 1%;
 }
 
 .col-2 {
   float: left;
   width: 62.9%;
-  margin: 7px;
+  margin: 1%;
 }
 
 .col-3 {
   width: 100%;
-  margin: 7px;
+  margin: 1%;
 }
 /* Posititoning Classes */
