@@ -37,5 +37,7 @@
   width: 100%;
 }
 
-[class*="col-"]
+[class*="col-"] {
+  margin-left: 2%;
+}
 /* Posititoning Classes */
